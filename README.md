@@ -44,14 +44,14 @@ In the last, now it’s the time to cluster the textual columns to match similar
 Now we figure out the optimal value of K for Clustering through Elbow method and Silhouette method and the number come to 9. 
 Once we did the clustering, we got 9 clusters namely: 
 
-0: Kids, Animation & Anime
-1: Musical International & Indian
-2: Drama, International, Indian
-3: Documentaries, Sports
-4: Drama, American, Adventure
-5: Comedy
-6: Horror
-7: International TV Shows
-8: Family Movies
+0 : Kids, Animation & Anime
+1 : Musical International & Indian
+2 : Drama, International, Indian
+3 : Documentaries, Sports
+4 : Drama, American, Adventure
+5 : Comedy
+6 : Horror
+7 : International TV Shows
+8 : Family Movies
 
 We plot the word clouds of every cluster to check the content we match. 
