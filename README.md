@@ -1,5 +1,6 @@
 # Netflix's Recommendation System
 #### Co Created by [Ayush Jain](https://www.linkedin.com/in/ayush-jain-290b5a141/), Dhongari Pavan Raj Varma, Nadeeha A, Sreenivasan K V, Romaly Das and Yash Patil
+<b> Links: </b> [Collab](https://github.com/ishu1995/NetflixDataset_Clustering/blob/main/TEAM_REALITY_NETFLIX_MOVIES_AND_TV_SHOWS_CLUSTERING.ipynb), [Dataset](https://drive.google.com/file/d/190wMzj1ANCRKxN-oK9w7bPvDPUzQqNVn/view?usp=sharing), [Presentation](https://docs.google.com/presentation/d/14OsZnN7pMv4N2w00e8w_IGXapq4bXF9P/), [Techincal Documentation](https://docs.google.com/document/d/1ZH62x-q-tblzsBx5_1WcX6se0osIqUDI/edit?usp=sharing&ouid=115811449159523075548&rtpof=true&sd=true)
 <h3> Business Problem </h3>
 Netflix is all about connecting people with their favorite movies. To help customers find preferred movies, they have developed a world-class movie recommendation system: CinematchSM. Their job is to predict whether a person will enjoy a movie based on how much they liked or disliked other movies. Netflix uses those predictions to make recommendations for your movies based on the individual preferences of each customer. And while Cinematch works well, it can always be improved. Now there are so many interesting ways on how Cinematch works that netflix has not tried. Some are described in books, some are not. 
 
