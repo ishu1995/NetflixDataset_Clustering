@@ -1,4 +1,3 @@
-[ProjectSummary_Netflix.docx](https://github.com/ishu1995/NetflixDataset_Clustering/files/7150006/ProjectSummary_Netflix.docx)
 # NetflixDataset_Clustering
 <h3> Business Problem </h3>
 Netflix is all about connecting people with their favorite movies. To help customers find preferred movies, they have developed a world-class movie recommendation system: CinematchSM. Their job is to predict whether a person will enjoy a movie based on how much they liked or disliked other movies. Netflix uses those predictions to make recommendations for your movies based on the individual preferences of each customer. And while Cinematch works well, it can always be improved. Now there are so many interesting ways on how Cinematch works that netflix has not tried. Some are described in books, some are not. 
