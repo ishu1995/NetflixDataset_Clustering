@@ -55,4 +55,4 @@ The prepared text columns were clustered after selecting an optimal value from e
 
 We plot the word clouds of every cluster to check the content we match. 
 
-<b> References: [Deep dive into Netflix's Recommondation System](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48), [Content based recommondation system](https://www.offerzen.com/blog/how-to-build-a-content-based-recommender-system-for-your-product)</b>
+<b> References: [Deep dive into Netflix's Recommendation System](https://towardsdatascience.com/deep-dive-into-netflixs-recommender-system-341806ae3b48), [Content based recommendation system](https://www.offerzen.com/blog/how-to-build-a-content-based-recommender-system-for-your-product)</b>
